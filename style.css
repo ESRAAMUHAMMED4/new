@@ -1,0 +1,250 @@
+*{
+    box-sizing: border-box;
+    margin: 0 ;
+    padding: 0;
+}
+nav{
+
+    background-image: url(1.jpg);
+    background-repeat:no-repeat ;
+    background-size: cover;
+    height: 400px;
+}
+.main{
+    padding: 30px 40px 0 40px;
+    /* margin-top: 30px; */
+    display: flex;
+    justify-content: space-between;
+     width: 100%;
+}
+.main .lo {
+    color: white;
+display: flex;
+justify-content: space-between;
+   }
+   .main .lo h2{
+       width: 100%;
+    display: flex;
+    justify-content: space-between;
+   }
+.main ul {
+    font-weight: 20px;
+ list-style: none;
+display: flex;
+justify-content: space-between;
+color: white;
+width: 60%;
+}
+ul a {
+    text-decoration: none;
+    color: white;
+}
+ul a:hover{
+    color: #d9584a;
+}
+.main button {
+    height: 30px;
+    width: 70px;
+    border: none;
+    color: white;
+    background-color: #d9584a;
+
+}
+
+ 
+ .cont .head {
+padding-top: 5px;
+     color: rgb(255, 255, 255);
+     font-weight: bold;
+     font-size: 50px;
+     display: flex;
+      justify-content: center;
+     align-items: center;
+ }
+span {
+     color: #d9584a;
+ } 
+ .cont .par  {
+    padding-top: 50px;
+         color: rgb(255, 255, 255);
+         font-weight: bold;
+         font-size: 10px;
+         display: flex;
+          justify-content: center;
+         align-items: center;
+     } 
+  
+ .bttn {
+     padding-top: 10px;
+     display: flex;
+      justify-content: space-around;
+ }
+ .bttn button {
+   background-color:#d9584a;
+     border: none;
+     width: 100px;
+     height: 40px;
+ }
+ .all {
+     padding-bottom: 20px;
+ }
+ .all .par span{
+     padding-top: -5px;
+ }
+ .icon{
+
+      width: 70px;
+     height: 70px;
+     background-color: #d9584a;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+    }
+    .icon i {
+
+     transform: rotate(-45deg);
+     color: white;
+ }
+ .par {
+     padding-left: 15px;
+     
+ }
+ .first p , h3{
+     display: flex;
+      justify-content: center;
+ }
+ .top{
+     text-align: center;
+     padding-top: 50px;
+     padding-bottom: 20px;
+ }
+ .sectionTwo {
+     display: flex;
+     align-items: center;
+     margin-top: 30px;
+     height: 300px;
+      color: white;
+     background-image: url(wp2639533-gym-wallpaper-hd.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+ }
+ .contant h1 ,p{
+     display: flex;
+     justify-content: center;
+  }
+ .all {
+     display: flex;
+     justify-content: space-between;
+ }
+ .bt {
+     display: flex;
+     justify-content: center;
+ }
+ .sectionTwo button{
+    background-color: #d9584a;
+color: white;
+width: 100px;
+height: 40px;
+border: none;
+
+
+}
+.one {
+width: 80%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+     border: 1px solid;
+    margin-bottom:15px ;
+ }
+ .one p {
+     padding-top: 10px;
+ }
+ .ic {
+ align-items: center;
+   padding-right: 10px;
+   color: #d9584a;
+ 
+}
+.sectionThree button{
+    background-color: #d9584a;
+    border-radius: 3px;
+    color: white;
+    
+}
+.sectionThree .one:hover{
+    color: #d9584a;
+}
+ .end img{
+     width: 100%;
+     height: 160px;
+ }
+ 
+table{
+     border: 1px solid gray;
+     text-align: center;
+     width: 100%;
+     height: 400px;
+
+ }
+ table td ,tr,th{
+     border: 1px solid gray;
+ }
+.sectionFour{
+    margin-top: 20px;
+    color: white;
+    background-image: url(stronger-young-muscular-caucasian-athlete-practicing-lunges-gym-with-barbell-male-model-doing-strength-exercises-training-his-lower-body-wellness-healthy-lifestyle-bodybuilding-concept.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+height: 700px;
+ }
+.ht h1 , p,span{
+    display: flex;
+justify-content: center;
+}
+.ht h1{
+    padding-top: 30px;
+
+}
+  .days{
+justify-content: center;
+
+    padding-top: 30px;
+    list-style: none;
+    display: flex;
+ }
+ .days li::after{
+     content: ' / ';
+     padding-right:10px ;
+    }
+ 
+.days li:hover{
+color: #d9584a;}
+
+.sectionFive h1{
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+.pics img{
+    width: 200px;
+    height: 200px;
+}
+ 
+ .images{
+     padding-top: 30px;
+     display: flex;
+     justify-content: space-between;
+ }
+ .pics  {
+     text-align: center;
+    }
+    .pics i {
+          padding-right:10px ;
+
+      }
+      .pics i:hover {
+        color: #d9584a;
+        cursor: pointer;
+    }
+    
